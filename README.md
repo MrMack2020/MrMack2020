@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Russ
-- 👀 I’m interested in Python development and Flask 
-- 🌱 I’m currently studying Back-end development (Flask) for a change of career
-- 💞️ I’m looking to collaborate on smaller Flask tasks to start with.
+- 👀 I’m a Python development and Flask enthusiast
+- 🌱 I’ve studied Python and studying Back-end development (Flask) for a change of career
+- 💞️ I’m looking to collaborate on smaller Python and Flask tasks.
 - 📫 You can reach me on twitter @Russ4Python or email mine4142@outlook.com
 
 <!---
